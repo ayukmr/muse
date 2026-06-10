@@ -1,0 +1,13 @@
+.DS_Store
+
+*.lck
+*.drl
+*.gbr
+*.gbrjob
+*.zip
+*.kicad_prl
+*-backups
+_autosave*
+*.bak
+.history
+fp-info-cache
