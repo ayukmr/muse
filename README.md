@@ -2,12 +2,14 @@
 
 <img src="https://static.ayukmr.com/repos/muse/3.png" height="400">
 
-Small device for outputting MIDI, with a rotary encoder and buttons.
+Small device for outputting MIDI, with a rotary encoder, buttons, and an OLED screen.
 
-The board is controlled by a XIAO RP2040, and uses USB-C for both power and data.
-The slide switch selects between two modes.
-In assign mode, the rotary encoder is used to select notes on the OLED screen, and the buttons store the current note.
+The board is controlled by a XIAO RP2040 and uses USB-C for both power and data.
+A slide switch selects between two modes.
+In assign mode, the rotary encoder is used to select notes on the OLED screen and the buttons store the current note.
 In play mode, pressing a button sends its assigned note.
+
+This is intended as a simpler hand-solderable board and as a small trinket.
 
 ## Schematic
 
